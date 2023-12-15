@@ -23,7 +23,7 @@ The project leverages the following technologies and concepts:
 * Concurrency and multi-threading
 
 ## Installation and Setup
-Just  the project repository to your local machine and runthe Main.java file. (src/main/java/bguspl/set/Main.java)
+Just clone the project repository to your local machine and run the Main.java file. (src/main/java/bguspl/set/Main.java)
 
 During gameplay, human players will input their moves using the keyboard. The left-side player will use the following keys for placing and removing tokens: Q, W, E, R, A, S, D, F, Z, X, C, V. The right-side player will use the following keys: U, I, O, P, J, K, L, ';', M, ',', '.'.
 Each key puts and removes a token.
